@@ -1,0 +1,186 @@
+h1, h2, h3, h4, h5, h6, p, a {
+    font-family: Poppins,sans-serif;
+  color: #28323c;
+  }
+
+ a {
+     color: black;
+     text-decoration: none;
+ }
+
+ .background {
+     background-image: url(Recursos/fondo.jpeg);
+     background-color: white;
+     background-repeat: no-repeat;
+     background-size: 50%;
+ }
+
+
+ .d-flex {
+     display: flex;
+ }
+
+ .encabezado {
+     height: 100px;
+     justify-content:space-between;
+     padding: 20px;
+     
+ }
+
+ .logo   {
+   
+     width: 30%;
+     height: 100%;
+     justify-content: space-around;
+
+    
+ }
+
+ .links {
+     width: 35%;
+    
+     
+ }
+
+ .links h4 {
+     padding: 17px;           
+     
+ } 
+
+  
+ .minicontenedor {
+     background-color: white;
+     margin: 20px;
+     margin-left: 0;
+     border-radius: 10px;
+   
+ }
+
+ .contenedor {
+     
+     justify-content: space-around;
+ }
+
+ .caja1 {
+     padding-left: 3%;
+     width: 32%;
+                 
+ }
+
+ .caja1 div h1 {
+     font-size: 45px
+ }
+
+ .caja2 {
+
+     padding: 4%;
+
+     width: 35%;
+     
+     height: 100%;
+    
+}
+
+.caja2a {
+   width: 100%;
+   background-color: transparent;
+   border-radius: 5px;
+   border: 1px solid #bdbdbd;  
+   padding: 20px;
+    
+}
+
+.contrata {
+  
+      background: #28323c;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    padding-top: 1px ;     
+    width: 10%;
+    
+}
+
+.contactanos {
+    
+ background: #28323c;
+
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    width: 100%;
+
+}
+
+ .contrata {
+ 
+    max-height: 5%;
+    width: 65%;
+}
+
+.m17 {
+    margin-bottom: 17px;
+}
+
+.rooftop {
+    max-height: 70%;
+    max-width: 60%;
+    margin-top: 5%;
+
+}
+
+.logoRoof {
+ 
+   padding-top: 30px;
+   padding-right: 50px;
+
+}
+
+.redesSociales {
+    margin-top: 70px;
+}
+
+
+.redesSociales img {
+    width: 4%;
+    background-color: rgba(0,0,0,.06);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 2px;
+    
+}
+
+ .b0 {
+border: none;
+ }
+
+
+
+.Form-junto {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.Form-junto div {
+    width: 44%;
+   
+}
+
+
+
+.div1 {
+    width: 10%;
+}
+
+.div1 img  {
+    
+     padding: 35%;
+     padding-top: 45%;
+    
+    
+}
+
+.div2 {
+    width: 50%;
+    
+}
